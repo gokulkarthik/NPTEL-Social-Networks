@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.gephi.visualization">
+    <module_version install_time="1455480340667" last="false" origin="installer" specification_version="0.9.1">
+        <file crc="3681226920" name="config/Modules/org-gephi-visualization.xml"/>
+        <file crc="3678588617" name="modules/ext/org.gephi.visualization/org-jogamp-gluegen/gluegen-rt-natives-linux-amd64.jar"/>
+        <file crc="1722544172" name="modules/ext/org.gephi.visualization/org-jogamp-gluegen/gluegen-rt-natives-linux-i586.jar"/>
+        <file crc="2095147497" name="modules/ext/org.gephi.visualization/org-jogamp-gluegen/gluegen-rt-natives-macosx-universal.jar"/>
+        <file crc="3176296270" name="modules/ext/org.gephi.visualization/org-jogamp-gluegen/gluegen-rt-natives-windows-amd64.jar"/>
+        <file crc="2101973974" name="modules/ext/org.gephi.visualization/org-jogamp-gluegen/gluegen-rt-natives-windows-i586.jar"/>
+        <file crc="1552883203" name="modules/ext/org.gephi.visualization/org-jogamp-gluegen/gluegen-rt.jar"/>
+        <file crc="858139046" name="modules/ext/org.gephi.visualization/org-jogamp-jogl/jogl-all-natives-linux-amd64.jar"/>
+        <file crc="380359582" name="modules/ext/org.gephi.visualization/org-jogamp-jogl/jogl-all-natives-linux-i586.jar"/>
+        <file crc="3674165964" name="modules/ext/org.gephi.visualization/org-jogamp-jogl/jogl-all-natives-macosx-universal.jar"/>
+        <file crc="584045100" name="modules/ext/org.gephi.visualization/org-jogamp-jogl/jogl-all-natives-windows-amd64.jar"/>
+        <file crc="3230234534" name="modules/ext/org.gephi.visualization/org-jogamp-jogl/jogl-all-natives-windows-i586.jar"/>
+        <file crc="3941331126" name="modules/ext/org.gephi.visualization/org-jogamp-jogl/jogl-all.jar"/>
+        <file crc="2991524861" name="modules/org-gephi-visualization.jar"/>
+    </module_version>
+    <module_version install_time="1501901944472" last="true" origin="Gephi Update Center" specification_version="0.9.1.2">
+        <file crc="3256322361" name="config/Modules/org-gephi-visualization.xml"/>
+        <file crc="3678588617" name="modules/ext/org.gephi.visualization/org-jogamp-gluegen/gluegen-rt-natives-linux-amd64.jar"/>
+        <file crc="1722544172" name="modules/ext/org.gephi.visualization/org-jogamp-gluegen/gluegen-rt-natives-linux-i586.jar"/>
+        <file crc="2095147497" name="modules/ext/org.gephi.visualization/org-jogamp-gluegen/gluegen-rt-natives-macosx-universal.jar"/>
+        <file crc="3176296270" name="modules/ext/org.gephi.visualization/org-jogamp-gluegen/gluegen-rt-natives-windows-amd64.jar"/>
+        <file crc="2101973974" name="modules/ext/org.gephi.visualization/org-jogamp-gluegen/gluegen-rt-natives-windows-i586.jar"/>
+        <file crc="1552883203" name="modules/ext/org.gephi.visualization/org-jogamp-gluegen/gluegen-rt.jar"/>
+        <file crc="858139046" name="modules/ext/org.gephi.visualization/org-jogamp-jogl/jogl-all-natives-linux-amd64.jar"/>
+        <file crc="380359582" name="modules/ext/org.gephi.visualization/org-jogamp-jogl/jogl-all-natives-linux-i586.jar"/>
+        <file crc="3674165964" name="modules/ext/org.gephi.visualization/org-jogamp-jogl/jogl-all-natives-macosx-universal.jar"/>
+        <file crc="584045100" name="modules/ext/org.gephi.visualization/org-jogamp-jogl/jogl-all-natives-windows-amd64.jar"/>
+        <file crc="3230234534" name="modules/ext/org.gephi.visualization/org-jogamp-jogl/jogl-all-natives-windows-i586.jar"/>
+        <file crc="3941331126" name="modules/ext/org.gephi.visualization/org-jogamp-jogl/jogl-all.jar"/>
+        <file crc="2695027505" name="modules/org-gephi-visualization.jar"/>
+    </module_version>
+</module>

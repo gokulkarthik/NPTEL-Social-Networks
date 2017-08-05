@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.gephi.layout.api">
+    <module_version install_time="1455480341467" last="false" origin="installer" specification_version="0.9.1">
+        <file crc="2731232558" name="config/Modules/org-gephi-layout-api.xml"/>
+        <file crc="2256012704" name="modules/org-gephi-layout-api.jar"/>
+    </module_version>
+    <module_version install_time="1501901943731" last="true" origin="Gephi Update Center" specification_version="0.9.1.1">
+        <file crc="44433397" name="config/Modules/org-gephi-layout-api.xml"/>
+        <file crc="4110591967" name="modules/org-gephi-layout-api.jar"/>
+    </module_version>
+</module>

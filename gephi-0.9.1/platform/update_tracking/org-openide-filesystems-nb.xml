@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.openide.filesystems.nb">
+    <module_version install_time="1455480340938" last="true" origin="installer" specification_version="9.7.1">
+        <file crc="282384882" name="config/Modules/org-openide-filesystems-nb.xml"/>
+        <file crc="1769866541" name="modules/locale/org-openide-filesystems-nb_ja.jar"/>
+        <file crc="595666633" name="modules/locale/org-openide-filesystems-nb_pt_BR.jar"/>
+        <file crc="2475528211" name="modules/locale/org-openide-filesystems-nb_ru.jar"/>
+        <file crc="2786663738" name="modules/locale/org-openide-filesystems-nb_zh_CN.jar"/>
+        <file crc="2013180271" name="modules/org-openide-filesystems-nb.jar"/>
+    </module_version>
+</module>

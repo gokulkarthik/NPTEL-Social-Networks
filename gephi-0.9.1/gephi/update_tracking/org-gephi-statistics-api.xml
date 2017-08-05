@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.gephi.statistics.api">
+    <module_version install_time="1455480340516" last="false" origin="installer" specification_version="0.9.1">
+        <file crc="3106673084" name="config/Modules/org-gephi-statistics-api.xml"/>
+        <file crc="1183109574" name="modules/org-gephi-statistics-api.jar"/>
+    </module_version>
+    <module_version install_time="1501901944444" last="true" origin="Gephi Update Center" specification_version="0.9.1.1">
+        <file crc="1216422488" name="config/Modules/org-gephi-statistics-api.xml"/>
+        <file crc="3062589138" name="modules/org-gephi-statistics-api.jar"/>
+    </module_version>
+</module>

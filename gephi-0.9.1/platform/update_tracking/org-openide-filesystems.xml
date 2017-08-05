@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.openide.filesystems">
+    <module_version install_time="1455480339828" last="true" origin="installer" specification_version="9.8.1">
+        <file crc="3309650626" name="config/ModuleAutoDeps/org-openide-filesystems.xml"/>
+        <file crc="935469052" name="core/locale/org-openide-filesystems_ja.jar"/>
+        <file crc="3729097238" name="core/locale/org-openide-filesystems_pt_BR.jar"/>
+        <file crc="1211010867" name="core/locale/org-openide-filesystems_ru.jar"/>
+        <file crc="3835488625" name="core/locale/org-openide-filesystems_zh_CN.jar"/>
+        <file crc="763456475" name="core/org-openide-filesystems.jar"/>
+    </module_version>
+</module>

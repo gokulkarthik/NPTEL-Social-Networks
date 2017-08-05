@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.api.progress.nb">
+    <module_version install_time="1455480341320" last="true" origin="installer" specification_version="1.46.1">
+        <file crc="2568902117" name="config/Modules/org-netbeans-api-progress-nb.xml"/>
+        <file crc="1822576611" name="modules/locale/org-netbeans-api-progress-nb_ja.jar"/>
+        <file crc="3473215701" name="modules/locale/org-netbeans-api-progress-nb_pt_BR.jar"/>
+        <file crc="374627629" name="modules/locale/org-netbeans-api-progress-nb_ru.jar"/>
+        <file crc="893183081" name="modules/locale/org-netbeans-api-progress-nb_zh_CN.jar"/>
+        <file crc="2414339114" name="modules/org-netbeans-api-progress-nb.jar"/>
+    </module_version>
+</module>

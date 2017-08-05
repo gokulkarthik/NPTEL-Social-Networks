@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.api.intent">
+    <module_version install_time="1455480341374" last="true" origin="installer" specification_version="1.1.1">
+        <file crc="406711867" name="config/Modules/org-netbeans-api-intent.xml"/>
+        <file crc="2975222074" name="modules/locale/org-netbeans-api-intent_ja.jar"/>
+        <file crc="3944239788" name="modules/locale/org-netbeans-api-intent_pt_BR.jar"/>
+        <file crc="2767890187" name="modules/locale/org-netbeans-api-intent_ru.jar"/>
+        <file crc="3367772736" name="modules/locale/org-netbeans-api-intent_zh_CN.jar"/>
+        <file crc="3992202177" name="modules/org-netbeans-api-intent.jar"/>
+    </module_version>
+</module>

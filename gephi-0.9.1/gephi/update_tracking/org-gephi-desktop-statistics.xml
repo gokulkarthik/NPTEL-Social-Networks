@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.gephi.desktop.statistics">
+    <module_version install_time="1455480341507" last="true" origin="installer" specification_version="0.9.1">
+        <file crc="711133757" name="config/Modules/org-gephi-desktop-statistics.xml"/>
+        <file crc="3721280040" name="modules/org-gephi-desktop-statistics.jar"/>
+    </module_version>
+</module>

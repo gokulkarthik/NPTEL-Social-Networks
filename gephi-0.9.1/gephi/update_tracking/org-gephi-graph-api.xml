@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.gephi.graph.api">
+    <module_version install_time="1455480340096" last="false" origin="installer" specification_version="0.9.1">
+        <file crc="288639425" name="config/Modules/org-gephi-graph-api.xml"/>
+        <file crc="2940920719" name="modules/ext/org.gephi.graph-api/colt/colt.jar"/>
+        <file crc="2325472648" name="modules/ext/org.gephi.graph-api/concurrent/concurrent.jar"/>
+        <file crc="3546030778" name="modules/ext/org.gephi.graph-api/it-unimi-dsi/fastutil.jar"/>
+        <file crc="2216476816" name="modules/ext/org.gephi.graph-api/joda-time/joda-time.jar"/>
+        <file crc="1654453438" name="modules/ext/org.gephi.graph-api/org-gephi/graphstore.jar"/>
+        <file crc="3962300558" name="modules/org-gephi-graph-api.jar"/>
+    </module_version>
+    <module_version install_time="1501901943800" last="true" origin="Gephi Update Center" specification_version="0.9.1.2">
+        <file crc="3285880074" name="config/Modules/org-gephi-graph-api.xml"/>
+        <file crc="2940920719" name="modules/ext/org.gephi.graph-api/colt/colt.jar"/>
+        <file crc="2325472648" name="modules/ext/org.gephi.graph-api/concurrent/concurrent.jar"/>
+        <file crc="1404152460" name="modules/ext/org.gephi.graph-api/it-unimi-dsi/fastutil.jar"/>
+        <file crc="3450834633" name="modules/ext/org.gephi.graph-api/joda-time/joda-time.jar"/>
+        <file crc="2333092319" name="modules/ext/org.gephi.graph-api/org-gephi/graphstore.jar"/>
+        <file crc="1792281512" name="modules/org-gephi-graph-api.jar"/>
+    </module_version>
+</module>

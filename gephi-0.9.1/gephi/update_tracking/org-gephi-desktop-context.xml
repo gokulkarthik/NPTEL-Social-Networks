@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.gephi.desktop.context">
+    <module_version install_time="1455480341285" last="false" origin="installer" specification_version="0.9.1">
+        <file crc="847357476" name="config/Modules/org-gephi-desktop-context.xml"/>
+        <file crc="3818286338" name="modules/org-gephi-desktop-context.jar"/>
+    </module_version>
+    <module_version install_time="1501901944881" last="true" origin="Gephi Update Center" specification_version="0.9.1.1">
+        <file crc="3990385091" name="config/Modules/org-gephi-desktop-context.xml"/>
+        <file crc="2820963958" name="modules/org-gephi-desktop-context.jar"/>
+    </module_version>
+</module>

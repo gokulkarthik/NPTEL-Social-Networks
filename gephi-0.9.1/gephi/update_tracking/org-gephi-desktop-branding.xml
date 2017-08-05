@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.gephi.desktop.branding">
+    <module_version install_time="1455480341330" last="false" origin="installer" specification_version="0.9.1">
+        <file crc="3812734277" name="config/Modules/org-gephi-desktop-branding.xml"/>
+        <file crc="3529082984" name="modules/org-gephi-desktop-branding.jar"/>
+    </module_version>
+    <module_version install_time="1501901944998" last="true" origin="Gephi Update Center" specification_version="0.9.1.2">
+        <file crc="3402547572" name="config/Modules/org-gephi-desktop-branding.xml"/>
+        <file crc="811766801" name="modules/ext/org.gephi.desktop-branding/com-fasterxml-jackson-core/jackson-core.jar"/>
+        <file crc="60693112" name="modules/ext/org.gephi.desktop-branding/com-getsentry-raven/raven.jar"/>
+        <file crc="1948446070" name="modules/ext/org.gephi.desktop-branding/org-slf4j/slf4j-api.jar"/>
+        <file crc="2582410773" name="modules/ext/org.gephi.desktop-branding/org-slf4j/slf4j-jdk14.jar"/>
+        <file crc="2563866288" name="modules/org-gephi-desktop-branding.jar"/>
+    </module_version>
+</module>

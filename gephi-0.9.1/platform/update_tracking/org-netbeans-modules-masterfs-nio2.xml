@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.masterfs.nio2">
+    <module_version install_time="1455480338996" last="true" origin="installer" specification_version="1.14.1">
+        <file crc="1000323626" name="config/Modules/org-netbeans-modules-masterfs-nio2.xml"/>
+        <file crc="1325140335" name="modules/locale/org-netbeans-modules-masterfs-nio2_ja.jar"/>
+        <file crc="4248746221" name="modules/locale/org-netbeans-modules-masterfs-nio2_pt_BR.jar"/>
+        <file crc="3736261698" name="modules/locale/org-netbeans-modules-masterfs-nio2_ru.jar"/>
+        <file crc="2684680198" name="modules/locale/org-netbeans-modules-masterfs-nio2_zh_CN.jar"/>
+        <file crc="3149566862" name="modules/org-netbeans-modules-masterfs-nio2.jar"/>
+    </module_version>
+</module>

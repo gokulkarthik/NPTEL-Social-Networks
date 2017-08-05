@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.gephi.settings.upgrader">
+    <module_version install_time="1455480340494" last="true" origin="installer" specification_version="0.9.1">
+        <file crc="3719311931" name="config/Modules/org-gephi-settings-upgrader.xml"/>
+        <file crc="398756429" name="modules/org-gephi-settings-upgrader.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.api.io">
+    <module_version install_time="1455480341387" last="true" origin="installer" specification_version="1.2.1">
+        <file crc="2603497839" name="config/Modules/org-netbeans-api-io.xml"/>
+        <file crc="4003238335" name="modules/locale/org-netbeans-api-io_ja.jar"/>
+        <file crc="1026475206" name="modules/locale/org-netbeans-api-io_pt_BR.jar"/>
+        <file crc="1144833716" name="modules/locale/org-netbeans-api-io_ru.jar"/>
+        <file crc="563281773" name="modules/locale/org-netbeans-api-io_zh_CN.jar"/>
+        <file crc="1195672572" name="modules/org-netbeans-api-io.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.gephi.core.library.wrapper">
+    <module_version install_time="1455480341979" last="true" origin="installer" specification_version="0.9.1">
+        <file crc="75800563" name="config/Modules/org-gephi-core-library-wrapper.xml"/>
+        <file crc="1072088520" name="modules/ext/org.gephi.core-library-wrapper/com-google-collections/google-collections.jar"/>
+        <file crc="3697080390" name="modules/ext/org.gephi.core-library-wrapper/com-itextpdf/itextpdf.jar"/>
+        <file crc="1389511016" name="modules/ext/org.gephi.core-library-wrapper/commons-codec/commons-codec.jar"/>
+        <file crc="3288490373" name="modules/ext/org.gephi.core-library-wrapper/gnu-trove/trove.jar"/>
+        <file crc="2872210970" name="modules/ext/org.gephi.core-library-wrapper/jfree/jcommon.jar"/>
+        <file crc="1059696229" name="modules/ext/org.gephi.core-library-wrapper/jfree/jfreechart.jar"/>
+        <file crc="312139962" name="modules/ext/org.gephi.core-library-wrapper/net-java-dev/stax-utils.jar"/>
+        <file crc="157780274" name="modules/ext/org.gephi.core-library-wrapper/net-sourceforge-javacsv/javacsv.jar"/>
+        <file crc="1552918469" name="modules/ext/org.gephi.core-library-wrapper/org-apache-commons/commons-compress.jar"/>
+        <file crc="3813308714" name="modules/ext/org.gephi.core-library-wrapper/org-apache-xmlgraphics/batik-anim.jar"/>
+        <file crc="4277228369" name="modules/ext/org.gephi.core-library-wrapper/org-apache-xmlgraphics/batik-awt-util.jar"/>
+        <file crc="2298984112" name="modules/ext/org.gephi.core-library-wrapper/org-apache-xmlgraphics/batik-bridge.jar"/>
+        <file crc="793821825" name="modules/ext/org.gephi.core-library-wrapper/org-apache-xmlgraphics/batik-css.jar"/>
+        <file crc="2608077669" name="modules/ext/org.gephi.core-library-wrapper/org-apache-xmlgraphics/batik-dom.jar"/>
+        <file crc="1085953367" name="modules/ext/org.gephi.core-library-wrapper/org-apache-xmlgraphics/batik-ext.jar"/>
+        <file crc="2759434962" name="modules/ext/org.gephi.core-library-wrapper/org-apache-xmlgraphics/batik-gvt.jar"/>
+        <file crc="538149297" name="modules/ext/org.gephi.core-library-wrapper/org-apache-xmlgraphics/batik-parser.jar"/>
+        <file crc="3876875797" name="modules/ext/org.gephi.core-library-wrapper/org-apache-xmlgraphics/batik-script.jar"/>
+        <file crc="4170266847" name="modules/ext/org.gephi.core-library-wrapper/org-apache-xmlgraphics/batik-svg-dom.jar"/>
+        <file crc="2464253166" name="modules/ext/org.gephi.core-library-wrapper/org-apache-xmlgraphics/batik-transcoder.jar"/>
+        <file crc="1822598402" name="modules/ext/org.gephi.core-library-wrapper/org-apache-xmlgraphics/batik-util.jar"/>
+        <file crc="3401832098" name="modules/ext/org.gephi.core-library-wrapper/org-apache-xmlgraphics/batik-xml.jar"/>
+        <file crc="4016527469" name="modules/ext/org.gephi.core-library-wrapper/xalan/xalan.jar"/>
+        <file crc="2268634152" name="modules/ext/org.gephi.core-library-wrapper/xml-apis/xml-apis-ext.jar"/>
+        <file crc="2872812085" name="modules/org-gephi-core-library-wrapper.jar"/>
+    </module_version>
+</module>

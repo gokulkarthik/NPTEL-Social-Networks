@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.gephi.welcome.screen">
+    <module_version install_time="1455480341277" last="true" origin="installer" specification_version="0.9.1">
+        <file crc="4058536206" name="config/Modules/org-gephi-welcome-screen.xml"/>
+        <file crc="3477598447" name="modules/org-gephi-welcome-screen.jar"/>
+    </module_version>
+</module>

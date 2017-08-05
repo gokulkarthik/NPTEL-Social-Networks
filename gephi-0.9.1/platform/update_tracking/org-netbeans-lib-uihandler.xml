@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.lib.uihandler">
+    <module_version install_time="1455480338467" last="true" origin="installer" specification_version="1.44.1">
+        <file crc="4049691764" name="config/Modules/org-netbeans-lib-uihandler.xml"/>
+        <file crc="1971816446" name="modules/locale/org-netbeans-lib-uihandler_ja.jar"/>
+        <file crc="3611790243" name="modules/locale/org-netbeans-lib-uihandler_pt_BR.jar"/>
+        <file crc="3825126802" name="modules/locale/org-netbeans-lib-uihandler_ru.jar"/>
+        <file crc="3277014352" name="modules/locale/org-netbeans-lib-uihandler_zh_CN.jar"/>
+        <file crc="1634338952" name="modules/org-netbeans-lib-uihandler.jar"/>
+    </module_version>
+</module>

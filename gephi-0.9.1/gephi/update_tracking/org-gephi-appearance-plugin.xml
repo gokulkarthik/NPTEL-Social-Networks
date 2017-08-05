@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.gephi.appearance.plugin">
+    <module_version install_time="1455480341764" last="false" origin="installer" specification_version="0.9.1">
+        <file crc="2735805535" name="config/Modules/org-gephi-appearance-plugin.xml"/>
+        <file crc="2425860079" name="modules/org-gephi-appearance-plugin.jar"/>
+    </module_version>
+    <module_version install_time="1501901943705" last="true" origin="Gephi Update Center" specification_version="0.9.1.1">
+        <file crc="43911427" name="config/Modules/org-gephi-appearance-plugin.xml"/>
+        <file crc="1883043057" name="modules/org-gephi-appearance-plugin.jar"/>
+    </module_version>
+</module>

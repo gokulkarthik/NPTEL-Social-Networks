@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.gephi.statistics.plugin.ui">
+    <module_version install_time="1455480340535" last="false" origin="installer" specification_version="0.9.1">
+        <file crc="3534207611" name="config/Modules/org-gephi-statistics-plugin-ui.xml"/>
+        <file crc="1614346723" name="modules/org-gephi-statistics-plugin-ui.jar"/>
+    </module_version>
+    <module_version install_time="1501901943619" last="true" origin="Gephi Update Center" specification_version="0.9.1.1">
+        <file crc="1040532066" name="config/Modules/org-gephi-statistics-plugin-ui.xml"/>
+        <file crc="4277284769" name="modules/org-gephi-statistics-plugin-ui.jar"/>
+    </module_version>
+</module>

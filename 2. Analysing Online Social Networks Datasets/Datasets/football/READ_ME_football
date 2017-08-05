@@ -1,0 +1,26 @@
+World Soccer Data Paris 1998
+
+Dataset   Football
+
+Description
+
+football.net - valued network with 35 vertices
+Download
+
+complete dataset
+
+Background
+
+Our network example describes the 22 soccer teams which participated in the World Championship in Paris, 1998.
+
+Players of the national team often have contracts in other countries. This constitutes a players market where national teams export players to other countries. Members of the 22 teams had contracts in altogether 35 countries.
+
+Counting which team exports how many players to which country can be described with a valued, asymmetric graph. The graph is highly unsymmetric: some countries only export players, some countries are only importers.
+
+History
+
+Data collected by Lothar Krempel, October 5, 1999
+Transformed in Pajek format by V. Batagelj, February 9, 2001.
+References
+
+Dagstuhl seminar: Link Analysis and Visualization, Dagstuhl 1-6. July 2001
