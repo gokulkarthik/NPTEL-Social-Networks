@@ -1,5 +1,5 @@
 # NPTEL-SocialNetworks
-This repository contains the social networks course notes, network datasets and python programs for network analysis.  
+This repository contains the social networks course notes, network data sets and python programs for network analysis.  
 
 Course URL : https://onlinecourses.nptel.ac.in/noc17_cs41/course
 
