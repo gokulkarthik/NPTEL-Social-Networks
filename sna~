@@ -1,0 +1,57 @@
+Research Areas in SNA:
+
+week 2
+=======
+* Clustering Co-efficient of a node- probability that the randomly selected friends of a node are friends with each other.
+Eg. People with less clustering co-efficient are more prone to sucide
+
+* Neighborhood Overlap between 2 nodes- Stregth of the clusters - common friends/total friends
+week 3
+=======
+* Weak Ties, Bridges and Local Bridges
+Neighborhood overlap higher -> less probability for the local bridge; else a local bridge
+Lesser the phone call duration -> more chance for local bridge
+
+* Embeddedness = number of common friends
+more common friends => more trust (even in case of recent friends)
+Embeddedness is all about edges(Friendships) and not about nodes(friends)
+
+* Stuctural holes exist when the low or zero embeddedness is good for someone!(Eg : Real estate business)
+Sir should contact real estate broker only via RAMYA and friends of sir should contact them only via Sir, Ramya. Thus Ramya monopolises and people in I sub group have to take a longer path. Such a condition is called a structural hole.
+
+* Social Capital -> Network with major benefits. It should have both closure and brokerage Eg. Football, Facebook
+There should be strong closure with in each elements of brokerage
+Closure : A friend's friend becomes friend
+Complete unity is boring
+
+* Communities -> Finding comunities in a network
+Vertex betweenness is an indicator of highly central nodes in networks. For any node i, vertex betweenness is defined as the number of shortest paths between pairs of nodes that run through it. It is relevant to models where the network modulates transfer of goods between known start and end points, under the assumption that such transfer seeks the shortest available route.
+The Girvan–Newman algorithm extends this definition to the case of edges, defining the "edge betweenness" of an edge as the number of shortest paths between pairs of nodes that run along it.4
+
+week 4
+======
+* Communication types of FB
+One Way (No reply)
+Mutual/ 2 way/ reciprocal
+Maintained Relationship/ Passive => Follow, Like, Comment
+
+* Obesity, happiness and energy levels are contagious
+Happiness is contagious to 3 levels
+
+* How do we choose friends?
+pick 'our types' or pick and become 'their types'
+selection - She speak french and I speak french
+Social Influence - Smoking, eating junk food, drinking, partying 
+
+* similarity measure => no. of common items / Total no. of items
+wikipedia -> TrustWorthy(user talk page - content discussion)
+
+* Homophily -> When the number of inter(cross) frienships is less than half of the total frienships
+ H = 1 - Actual/Expected. H=-ve => heterogenity
+ 
+* Closure:
+-Triadic
+-Focal
+-Membership
+
+
